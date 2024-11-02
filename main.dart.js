@@ -91387,28 +91387,27 @@ $.awH[b]=a
 s=$.aMZ()[b]
 r=$.oV[a][b]
 s.hT(0,s.a.ur(B.az,B.fp,r))},
-L(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c="Effectiveness: ",b="Auto Notes"
-e.Zg("1, 2, 3")
-s=t.w
-r=A.bd(a,d,s).w
-s=A.bd(a,d,s).w
-q=t.p
-p=A.hp(d,d,21,A.aM(A.a([B.WD,A.a4(e.a.c,d,d,d,d,d,d,d,d)],q),B.i,B.G,B.j))
-r=r.a.b/3.5
-o=e.d
-n=A.a4(o[0],d,d,d,d,d,d,1.5,d)
-s=s.a.a/3.5
-m=$.aCE()
-l=e.gwe(e)
-m=A.al(A.aM(A.a([new A.v6(m.a,c,d),new A.l5(l,m,1,B.bJ,d),new A.l5(l,m,-1,B.bI,d)],q),B.i,B.E,B.j),d,s)
-k=$.aCF()
-k=A.al(A.aM(A.a([new A.v6(k.a,c,d),new A.l5(l,k,1,B.bJ,d),new A.l5(l,k,-1,B.bI,d)],q),B.i,B.E,B.j),d,s)
-j=$.aCG()
-i=t.s
-h=t.fo
-g=h.i("aj.E")
-f=t.N
-return A.iw(p,A.bQ(A.AD(A.a([A.al(A.bQ(A.aM(A.a([n,A.bf(A.a([m,k,A.al(A.aM(A.a([new A.v6(j.a,c,d),new A.l5(l,j,1,B.bJ,d),new A.l5(l,j,-1,B.bI,d)],q),B.i,B.E,B.j),d,s)],q),B.i,B.H,B.j)],q),B.i,B.E,B.j),d,d),r,d),A.al(A.bQ(A.a5o(B.kb,A.Y(new A.a3(A.a(["1, 2, 3","1, 3, 2","2, 1, 3","2, 3, 1","3, 1, 2","3, 2, 1"],i),new A.aoM(),h),!0,g),new A.aoN(e),"1, 2, 3",f),d,d),r,d),A.al(A.bQ(A.aM(A.a([A.a4(o[2],d,d,d,d,d,d,1.5,d),A.bf(A.a([A.tM(A.ef(B.oA,B.ci,d),new A.aoO(e,a)),A.aM(A.a([A.al(A.a5o(B.kb,A.Y(new A.a3(A.a(["Auto Notes","Accuracy","Capabilities","Trends","Field Awareness","Robot Failures"],i),new A.aoR(),h),!0,g),new A.aoS(e),b,f),d,s),A.al(A.h8(!0,$.IT(),B.bB,d,d,d,d,d,d,d,new A.aoT(),d,d,d,d),d,s)],q),B.i,B.H,B.j),A.aM(A.a([A.al(A.a5o(B.kb,A.Y(new A.a3(A.a(["Auto Notes","Accuracy","Capabilities","Trends","Field Awareness","Robot Failures"],i),new A.aoU(),h),!0,g),new A.aoV(e),b,f),d,s),A.al(A.h8(!0,$.aCA(),B.bB,d,d,d,d,d,d,d,new A.aoW(),d,d,d,d),d,s)],q),B.i,B.H,B.j),A.aM(A.a([A.al(A.a5o(B.HN,A.Y(new A.a3(A.a(["Auto Notes","Accuracy","Capabilities","Trends","Field Awareness","Robot Failures"],i),new A.aoX(),h),!0,g),new A.aoY(e),b,f),d,s),A.al(A.h8(!0,$.aCB(),B.bB,d,d,d,d,d,d,d,new A.aoP(),d,d,d,d),d,s)],q),B.i,B.H,B.j)],q),B.i,B.H,B.j)],q),B.i,B.E,B.j),d,d),r,d),B.bA,A.tM(B.ka,new A.aoQ(e,a))],q),d,d,!1),d,d),d)}}
+av(){this.aO()
+this.Zg("1, 2, 3")},
+L(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="Effectiveness: ",d="Auto Notes",c=t.w,b=A.bd(a,f,c).w
+c=A.bd(a,f,c).w
+s=t.p
+r=A.hp(f,f,21,A.aM(A.a([B.WD,A.a4(g.a.c,f,f,f,f,f,f,f,f)],s),B.i,B.G,B.j))
+b=b.a.b/3.5
+q=g.d
+p=A.a4(q[0],f,f,f,f,f,f,1.5,f)
+c=c.a.a/3.5
+o=$.aCE()
+n=g.gwe(g)
+o=A.al(A.aM(A.a([new A.v6(o.a,e,f),new A.l5(n,o,1,B.bJ,f),new A.l5(n,o,-1,B.bI,f)],s),B.i,B.E,B.j),f,c)
+m=$.aCF()
+m=A.al(A.aM(A.a([new A.v6(m.a,e,f),new A.l5(n,m,1,B.bJ,f),new A.l5(n,m,-1,B.bI,f)],s),B.i,B.E,B.j),f,c)
+l=$.aCG()
+k=t.s
+j=t.fo
+i=j.i("aj.E")
+h=t.N
+return A.iw(r,A.bQ(A.AD(A.a([A.al(A.bQ(A.aM(A.a([p,A.bf(A.a([o,m,A.al(A.aM(A.a([new A.v6(l.a,e,f),new A.l5(n,l,1,B.bJ,f),new A.l5(n,l,-1,B.bI,f)],s),B.i,B.E,B.j),f,c)],s),B.i,B.H,B.j)],s),B.i,B.E,B.j),f,f),b,f),A.al(A.bQ(A.a5o(B.kb,A.Y(new A.a3(A.a(["1, 2, 3","1, 3, 2","2, 1, 3","2, 3, 1","3, 1, 2","3, 2, 1"],k),new A.aoM(),j),!0,i),new A.aoN(g),"1, 2, 3",h),f,f),b,f),A.al(A.bQ(A.aM(A.a([A.a4(q[2],f,f,f,f,f,f,1.5,f),A.bf(A.a([A.tM(A.ef(B.oA,B.ci,f),new A.aoO(g,a)),A.aM(A.a([A.al(A.a5o(B.kb,A.Y(new A.a3(A.a(["Auto Notes","Accuracy","Capabilities","Trends","Field Awareness","Robot Failures"],k),new A.aoR(),j),!0,i),new A.aoS(g),d,h),f,c),A.al(A.h8(!0,$.IT(),B.bB,f,f,f,f,f,f,f,new A.aoT(),f,f,f,f),f,c)],s),B.i,B.H,B.j),A.aM(A.a([A.al(A.a5o(B.kb,A.Y(new A.a3(A.a(["Auto Notes","Accuracy","Capabilities","Trends","Field Awareness","Robot Failures"],k),new A.aoU(),j),!0,i),new A.aoV(g),d,h),f,c),A.al(A.h8(!0,$.aCA(),B.bB,f,f,f,f,f,f,f,new A.aoW(),f,f,f,f),f,c)],s),B.i,B.H,B.j),A.aM(A.a([A.al(A.a5o(B.HN,A.Y(new A.a3(A.a(["Auto Notes","Accuracy","Capabilities","Trends","Field Awareness","Robot Failures"],k),new A.aoX(),j),!0,i),new A.aoY(g),d,h),f,c),A.al(A.h8(!0,$.aCB(),B.bB,f,f,f,f,f,f,f,new A.aoP(),f,f,f,f),f,c)],s),B.i,B.H,B.j)],s),B.i,B.H,B.j)],s),B.i,B.E,B.j),f,f),b,f),B.bA,A.tM(B.ka,new A.aoQ(g,a))],s),f,f,!1),f,f),f)}}
 A.aoZ.prototype={
 $0(){var s=this.a,r=J.ae(s),q=this.b,p=J.ae(q),o=this.c,n=J.ae(o),m=t.s
 $.oV=A.a([A.a([r.h(s,1),p.h(q,1),n.h(o,1)],m),A.a([r.h(s,2),p.h(q,2),n.h(o,2)],m),A.a([r.h(s,3),p.h(q,3),n.h(o,3)],m),A.a([r.h(s,4),p.h(q,4),n.h(o,4)],m),A.a([r.h(s,5),p.h(q,5),n.h(o,5)],m),A.a([r.h(s,6),p.h(q,6),n.h(o,6)],m)],t.rj)},
